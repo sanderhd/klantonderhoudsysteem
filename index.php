@@ -53,9 +53,5 @@
                 <p>Voltooide ritten zijn direct terug te vinden voor een snelle en correcte facturatie.</p>
             </div>
         </section>
-
-        <footer>
-            &copy; <?php echo date('Y'); ?> Veel Auto Planning
-        </footer>
     </body>
 </html>
