@@ -31,11 +31,11 @@
         </div>
 
         <nav>
-            <a href="dashboard.php" class="active">Dashboard</a>
-            <a href="ritten.php">Alle ritten</a>
+            <a href="dashboard.php">Dashboard</a>
+            <a href="ritten.php" class="active">Alle ritten</a>
             <a href="chauffeur.php">Chauffeurs</a>
             <a href="facturen.php">Facturatie</a>
-        </nav>   
+        </nav>  
     </aside>
 </div>
 
