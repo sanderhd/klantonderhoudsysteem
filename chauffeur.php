@@ -16,6 +16,7 @@
     <title>Facturatie overzicht - Veel Auto Planning</title>
 
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/dashboard.css">
     <link rel="stylesheet" href="css/chauffeur.css">
 </head>
 
